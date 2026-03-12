@@ -16,7 +16,7 @@ function Navbar() {
   return (
     <nav className="navbar">
       <div className="nav-brand">
-        <Link to="/">🚀 Mon Site Vite</Link>
+        <Link to="/">🚀 Gilwanji Emmanuel</Link>
       </div>
       
       <ul className={`nav-links ${mobileMenuOpen ? 'active' : ''}`}>
